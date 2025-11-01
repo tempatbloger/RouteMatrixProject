@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /*
 --------------------------------------------------------------
- Route Matrix (RTMX) — Polygon Network
+ Route Matrix (RTMX) - Polygon Network
 --------------------------------------------------------------
  Name:        Route Matrix
  Symbol:      RTMX
@@ -13,7 +13,7 @@ pragma solidity ^0.8.20;
  Owner:       Renounced automatically on deployment
  Reference:   https://github.com/tempatbloger/RouteMatrixProject
 --------------------------------------------------------------
- Powered by OpenZeppelin — Standard ERC20 Implementation
+ Powered by OpenZeppelin - Standard ERC20 Implementation
 --------------------------------------------------------------
 */
 
@@ -26,5 +26,5 @@ contract RouteMatrix is ERC20, Ownable {
         renounceOwnership();
     }
 
-    string public constant PROJECT_INFO = "Route Matrix (RTMX) — Polygon ERC20, Ownership Renounced, Reference: GitHub";
+    string public constant PROJECT_INFO = "Route Matrix (RTMX) - Polygon ERC20, Ownership Renounced, Reference: GitHub";
 }
