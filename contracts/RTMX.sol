@@ -3,15 +3,15 @@ pragma solidity ^0.8.20;
 
 /*
 --------------------------------------------------------------
- Route Matrix (RTMX) - Polygon Network
+ Matrix Route (MRX) - Polygon Network
 --------------------------------------------------------------
- Name:        Route Matrix
- Symbol:      RTMX
+ Name:        Matrix Route
+ Symbol:      MRX
  Supply:      1,000,000,000,000 RTMX (1 Trillion)
  Decimals:    18
  Network:     Polygon (PoS)
  Owner:       Renounced automatically on deployment
- Reference:   https://github.com/tempatbloger/RouteMatrixProject
+ Reference:   https://github.com/tempatbloger/MatrixRoute
 --------------------------------------------------------------
  Powered by OpenZeppelin - Standard ERC20 Implementation
 --------------------------------------------------------------
