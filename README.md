@@ -117,7 +117,7 @@ Access our optimized trading environment with predictable patterns and deep liqu
 Partner with us to get instant liquidity and access to sophisticated trading infrastructure.
 
 ## Live Performance
-- **Real-time Tracking:** [DexScreener](https://dexscreener.com)
+- **Real-time Tracking:** [DexScreener](https://dexscreener.com/search?q=0xCd3BEC5B18C05c48E7B18d31981947F3bed2624d)
 - **Volume Analytics:** [GeckoTerminal](https://www.geckoterminal.com)
 - **Community Updates:** [X.com @Sobandihunter](https://x.com/Sobandihunter)
 
@@ -132,7 +132,7 @@ Partner with us to get instant liquidity and access to sophisticated trading inf
 ## Connect & Grow With Us
 - **Development Updates:** [X.com @Sobandihunter](https://x.com/Sobandihunter)
 - **Contract Verification:** [PolygonScan](https://polygonscan.com/token/0xcd3bec5b18c05c48e7b18d31981947f3bed2624d)
-- **Live Trading Data:** [DexScreener](https://dexscreener.com)
+- **Live Trading Data:** [DexScreener](https://dexscreener.com/search?q=0xCd3BEC5B18C05c48E7B18d31981947F3bed2624d)
 
 ## The Bottom Line
 Route Matrix isn't building another speculative token - we're creating the fundamental liquidity infrastructure that Polygon's micro-cap ecosystem desperately needs. This is DeFi 2.0: sustainable, utility-driven, and built for long-term success.
